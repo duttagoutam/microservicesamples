@@ -12,7 +12,7 @@ openssl rsa -in jwt.pem <br/>
 2. generate public key <br/>
 openssl rsa -in jwt.pem -pubout <br/>
 
-Copy private key and public key and replace the same in application.properties file <br/>
+Copy private key and public key ( including begin and end line )and replace the same in application.properties file <br/>
 
 3. generate authorization token <br/>
  a) Open postman and set POST method and URL http://localhost:9080/oauth/token <br/>
