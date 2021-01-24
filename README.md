@@ -3,7 +3,7 @@ microservice samples
 
 #AuthSecurity <br/>
 Install Git for installing openssl in windows machine <br/>
-Go to Git CMD and Go to C:\Program Files\Git\usr\bin i.e your Git installationation directory <br/>
+Go to Git CMD ( run as administrator) and Go to C:\Program Files\Git\usr\bin i.e your Git installationation directory <br/>
 Then follow step 1 & 2 to generate pprivate key and public key <br/>
 
 1. generate private key <br/>
